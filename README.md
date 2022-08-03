@@ -16,5 +16,6 @@ models/ directory contains classes used for this projiect: base_model.py - The B
 
 AUTHORS
 -------------------------------------------------
- Wakasso Wakasso
+ Wakasso Wakasso,
+ 
  Natnael Demelash Feleke
